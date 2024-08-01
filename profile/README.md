@@ -6,6 +6,21 @@ Welkom bij de ePrijzen GitHub-teamrepository, het centrale punt voor alle compon
 
 ePrijzen is ontwikkeld om jou te helpen dynamische energieprijzen te monitoren en te benutten. De service biedt verschillende componenten die samenwerken om real-time energieprijsinformatie te verzamelen, verwerken en delen via meerdere platformen. Hieronder volgt een overzicht van de beschikbare repositories:
 
+## Contact
+
+Alhoewel ik dus gestopt ben met dit project mag je altijd contact met me opnemen. Geef me wel ff de tijd om te reageren, ik heb het druk ;-)
+
+- **Theo van der Sluijs**: 
+  - E-mail: [theo@vandersluijs.nl](mailto:theo@vandersluijs.nl)
+  - Telegram: [tvdsluijs](https://t.me/tvdsluijs)
+
+### Andere gegevens
+
+Ben je opzoek naar andere gegevens van me?
+- Website: [itheo.tech](https://itheo.tech)
+- Resume: [theovandersluijs.nl](https://theovandersluijs.nl)
+- Linkedin: [Linkedin](https://www.linkedin.com/in/tvandersluijs/)
+
 ### Repositories
 
 1. **Energie-API**
@@ -64,11 +79,8 @@ Wanneer je mijn repositories wilt forken, hergebruiken, of op welke manier dan o
 
 - **Repository**: [ePrijzen GitHub](https://github.com/ePrijzen/)
 - **Ontwikkelaar**: Theo van der Sluijs
-  - Website: [itheo.tech](https://itheo.tech)
-  - Resume: [theovandersluijs.nl](https://theovandersluijs.nl)
-  - E-mail: [theo@vandersluijs.nl](mailto:theo@vandersluijs.nl)
   - Github: [tvdsluijs](https://github.com/tvdsluijs)
-  - Telegram: [tvdsluijs](https://t.me/tvdsluijs)
+
 
 ## Licentie: MIT
 
