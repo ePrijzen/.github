@@ -36,6 +36,10 @@ ePrijzen is ontwikkeld om jou te helpen dynamische energieprijzen te monitoren e
      - Visualisatie van prijsdata.
      - Genereren van rapporten en overzichten.
 
+6. **Energie-Database**
+   - **Beschrijving**: Deze repo bevat een zo goed als lege database.
+       
+
 ## Infrastructuur en Kostenbesparing
 
 De ePrijzen-service draaide oorspronkelijk op een server van **Digital Ocean** via **Docker-instanties**, wat ongeveer **$30 per maand** kostte. Om kosten te besparen, besloot ik de service naar een **Raspberry Pi 5** te migreren, wat een grote verandering met zich meebracht.
@@ -61,6 +65,7 @@ Wanneer je mijn repositories wilt forken, hergebruiken, of op welke manier dan o
 - **Repository**: [ePrijzen GitHub](https://github.com/ePrijzen/)
 - **Ontwikkelaar**: Theo van der Sluijs
   - Website: [itheo.tech](https://itheo.tech)
+  - Resume: [theovandersluijs.nl](https://theovandersluijs.nl)
   - E-mail: [theo@vandersluijs.nl](mailto:theo@vandersluijs.nl)
   - Github: [tvdsluijs](https://github.com/tvdsluijs)
   - Telegram: [tvdsluijs](https://t.me/tvdsluijs)
